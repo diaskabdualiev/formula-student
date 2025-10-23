@@ -1,0 +1,28 @@
+# Sphinx build directory
+build/
+
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sphinx cache
+.doctrees/
+source/.doctrees/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Backup files
+*.bak
+*~
