@@ -17,7 +17,17 @@ Formula Student - международное инженерное соревно
 
 .. toctree::
    :maxdepth: 2
-   :caption: Содержание:
 
-   bspd/bspd
+   safety/index
+
+.. toctree::
+   :maxdepth: 1
+
+   charger/charger
+   tools/tools
+
+
+.. toctree::
+   :maxdepth: 1
+
    useful_links
