@@ -19,13 +19,5 @@ Formula Student - международное инженерное соревно
    :maxdepth: 2
    :caption: Содержание:
 
-   accumulator/accumulator
-   tractive_system/tractive_system
-   safety_systems/safety_systems
-   low_voltage/low_voltage
-   sensors/sensors
-   controls_hmi/controls_hmi
-   wiring/wiring
-   charging/charging
    bspd/bspd
    useful_links
