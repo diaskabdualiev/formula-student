@@ -19,5 +19,5 @@ Formula Student - международное инженерное соревно
    :maxdepth: 2
    :caption: Содержание:
 
-   bspd
+   bspd/bspd
    useful_links
