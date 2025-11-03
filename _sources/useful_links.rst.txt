@@ -30,6 +30,12 @@ BMS и Accumulator
 * `Metropolia Finland HPF023 <https://www.theseus.fi/bitstream/10024/815158/2/Raisanen_Antti.pdf>`_
 * `Theseus Finland - Markus Jahn <https://www.theseus.fi/bitstream/handle/10024/510468/Jahn_Markus.pdf>`_ - shutdown circuit
 
+Моторы
+------
+
+* `PMxxx Motor Datasheet <https://evwest.com/support/PMxxx%20Datasheet%2001052012.pdf>`_
+* `EMRAX Motors Manual <https://data2.manualslib.com/pdf6/127/12611/1261073-emrax/188.pdf?1ddbab7b56d8e137d9d519f3d92195a9&take=binary>`_
+
 GitHub проекты
 --------------
 
@@ -60,3 +66,8 @@ Wiring и Harness
 * `TU Delft <https://www.fsteamdelft.nl/>`_
 * `GreenTeam Stuttgart <https://www.greenteam-stuttgart.de/>`_
 * `RWTH Aachen <https://www.ecurie-aix.de/en/>`_
+
+Фотогалереи соревнований
+-------------------------
+
+* `Фотки с соревнований <https://photos.google.com/share/AF1QipOQfAS-WHjqWW1yw-Bh_JMy8FAU54y16DBqgnW6X_rTQ01eLl9u0OPj8GKXfqMyYw?key=U3hWbG5XdlNFX1N4QlZEdG9qc3hPLS01Z1lKanRR>`_
